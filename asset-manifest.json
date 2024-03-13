@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.23acd1be.css",
-    "main.js": "/static/js/main.2cd6a805.js",
-    "static/js/453.17a9c8c3.chunk.js": "/static/js/453.17a9c8c3.chunk.js",
-    "index.html": "/index.html",
-    "static/media/logo-twitter.svg": "/static/media/logo-twitter.0b04117cb482dfccdae5af83f592f8d3.svg",
-    "static/media/logo-instagram.svg": "/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
-    "static/media/logo-facebook.svg": "/static/media/logo-facebook.6555562764c3d103f26762c808f8a357.svg",
-    "main.23acd1be.css.map": "/static/css/main.23acd1be.css.map",
-    "main.2cd6a805.js.map": "/static/js/main.2cd6a805.js.map",
-    "453.17a9c8c3.chunk.js.map": "/static/js/453.17a9c8c3.chunk.js.map"
+    "main.css": "/nutrimate/static/css/main.23acd1be.css",
+    "main.js": "/nutrimate/static/js/main.57452e12.js",
+    "static/js/453.17a9c8c3.chunk.js": "/nutrimate/static/js/453.17a9c8c3.chunk.js",
+    "index.html": "/nutrimate/index.html",
+    "static/media/logo-twitter.svg": "/nutrimate/static/media/logo-twitter.0b04117cb482dfccdae5af83f592f8d3.svg",
+    "static/media/logo-instagram.svg": "/nutrimate/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
+    "static/media/logo-facebook.svg": "/nutrimate/static/media/logo-facebook.6555562764c3d103f26762c808f8a357.svg",
+    "main.23acd1be.css.map": "/nutrimate/static/css/main.23acd1be.css.map",
+    "main.57452e12.js.map": "/nutrimate/static/js/main.57452e12.js.map",
+    "453.17a9c8c3.chunk.js.map": "/nutrimate/static/js/453.17a9c8c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23acd1be.css",
-    "static/js/main.2cd6a805.js"
+    "static/js/main.57452e12.js"
   ]
 }
